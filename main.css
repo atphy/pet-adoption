@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 
-header {
+.topBar {
   background-color: lightcoral;
   text-align: center;
   padding: 0;
@@ -21,4 +21,61 @@ header {
   font-style: italic;
   margin: 0;
   padding: 0;
+}
+
+.cards {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  float: left;
+}
+
+.animal-card {
+  border: solid lightcoral;
+  margin: 60px;
+  width: 300px;
+  min-height: 400px;
+  box-shadow: 5px 5px black;
+  border-radius: 25px;
+  color: white;
+  font-family: 'Raleway';
+}
+
+.animal-header {
+  margin: 0;
+  padding: 0;
+}
+
+.animal-header img {
+  width: 300px;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  border-radius: 25px 25px 0px 0px;
+  border-bottom: solid lightcoral;
+}
+
+.animal-header h1 {
+  text-align: center;
+  background-color: maroon;
+  margin: 0;
+  padding: 0;
+}
+
+.color {
+  text-align: left;
+  display: flex;
+  margin: 0px 5px;
+}
+
+.skill {
+  text-align: left;
+  display: flex;
+  margin: 0px 5px;
+}
+
+.type {
+  text-align: left;
+  display: flex;
+  margin: 0px 5px;
 }
