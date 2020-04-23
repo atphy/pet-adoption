@@ -23,16 +23,52 @@ body {
   padding: 0;
 }
 
+.filterButtons {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0px;
+  justify-content: space-evenly;
+  text-align: center;
+  margin: 15px 300px;
+  font-family: 'Raleway';
+}
+
+.dogsButton {
+  background-color: lightblue;
+  flex: 1;
+  border-radius: 25px;
+  margin: 0px 10px;
+  padding: 5px;
+}
+
+.catsButton {
+  background-color: lightseagreen;
+  flex: 1;
+  border-radius: 25px;
+  margin: 0px 10px;
+  padding: 5px;
+}
+
+.otherButton {
+  background-color: lightsteelblue;
+  flex: 1;
+  border-radius: 25px;
+  margin: 0px 10px;
+  padding: 5px;
+}
+
 .cards {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
   float: left;
+  margin: 0;
 }
 
 .animal-card {
-  border: solid lightcoral;
-  margin: 60px;
+  border: solid maroon;
+  margin: 20px 60px 40px 60px;
   width: 300px;
   min-height: 400px;
   box-shadow: 5px 5px black;
