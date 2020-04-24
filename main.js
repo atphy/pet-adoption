@@ -70,7 +70,7 @@ let domString = '';
 for (let i = 0; i < petsArray.length; i++) {
   domString +=  `<div class="animal-card">
                   <header class="animal-header">
-                    <img src= ${petsArray[i].image} alt= ${petsArray[i].imageDescription}>
+                    <img src= "${petsArray[i].imageLink}" alt= "${petsArray[i].imageDescription}">
                    <h1>${petsArray[i].name}</h1>
                   </header>
                   <div class="bodysection">
