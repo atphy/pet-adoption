@@ -34,24 +34,8 @@ body {
   font-family: 'Raleway';
 }
 
-.dogsButton {
+.selectType {
   background-color: lightblue;
-  flex: 1;
-  border-radius: 25px;
-  margin: 0px 10px;
-  padding: 5px;
-}
-
-.catsButton {
-  background-color: lightseagreen;
-  flex: 1;
-  border-radius: 25px;
-  margin: 0px 10px;
-  padding: 5px;
-}
-
-.otherButton {
-  background-color: lightsteelblue;
   flex: 1;
   border-radius: 25px;
   margin: 0px 10px;
