@@ -7,7 +7,6 @@ const petsArray = [
     skill: 'Bilingual',
     type: 'Dog',
     category: 'Dog',
-    display: ''
   },
   {
     imageLink: "https://modernfarmer.com/wp-content/uploads/2014/12/shrekfeature.jpg",
@@ -17,7 +16,6 @@ const petsArray = [
     skill: 'Partfait making',
     type: 'DON-KEH',
     category: 'Other',
-    display: ''
   },
   {
     imageLink: "https://vignette.wikia.nocookie.net/tmnt-x-pokemon/images/8/8a/Jake_the_Dog.jpg/revision/latest/scale-to-width-down/340?cb=20180708012258",
@@ -27,7 +25,6 @@ const petsArray = [
     skill: 'Hella stretchy',
     type: 'Dog',
     category: 'Dog',
-    display: ''
   },
   {
     imageLink: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/14/11/dolly-the-sheep.jpg?w968h681",
@@ -37,7 +34,6 @@ const petsArray = [
     skill: 'Interchangeable',
     type: 'Sheep',
     category: 'Other',
-    display: ''
   },
   {
     imageLink: "https://media0.giphy.com/media/10RhccNxPSaglW/source.gif",
@@ -47,7 +43,6 @@ const petsArray = [
     skill: 'Absolutely shreds',
     type: 'Cat',
     category: 'Cat',
-    display: ''
   },
   {
     imageLink: "https://images.squarespace-cdn.com/content/v1/5963bd771e5b6c97155e738b/1535042176897-O0RT9INIXHEB2GX5LAUU/ke17ZwdGBToddI8pDm48kGf0STK5BHh00bFDSVOoApUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcgZAOyUfjQ9ceXpmliXw51wnX6eNj_Cu-EdsHm6Ng4hkhCPKYLl3t9vnURsqIKtYL/garfield.jpeg",
@@ -57,7 +52,6 @@ const petsArray = [
     skill: 'Demonic Transformation',
     type: 'Cat',
     category: 'Cat',
-    display: ''
   },
   {
     imageLink: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/14/11/dolly-the-sheep.jpg?w968h681",
@@ -67,7 +61,6 @@ const petsArray = [
     skill: 'Interchangeable',
     type: 'Sheep',
     category: 'Other',
-    display: ''
   }
 ];
 
