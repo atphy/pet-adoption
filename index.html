@@ -17,11 +17,12 @@
         <h2 class="slogan">Where you might want to put some newspaper over the red carpet!</h2>
     </header>
 
-    <header class="filterButtons">
-      <h3 class="dogsButton">Dogs</h3>
-      <h3 class="catsButton">Cats</h3>
-      <h3 class="otherButton">Other</h3>
-  </header>
+    <header class="filterButtons" type="button">
+      <button class= 'selectType' id="dogsButton" onclick="filterButton('Dog')">Dogs</button>
+      <button class= 'selectType' id="catsButton" onclick="filterButton('Cat')">Cats</button>
+      <button class= 'selectType' id="otherButton" onclick="filterButton('Other')">Other</button>
+      <button class= 'selectType' id="unfilterButton" onclick="noFilter()">Show All</button>
+    </header>
 
     <div class="cards">
     </div>
