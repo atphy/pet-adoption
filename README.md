@@ -5,6 +5,7 @@ Our second assignment was to build on the [previous week's product card page](ht
 https://github.com/nss-nightclass-projects/pet-adoption
 
 ## Preview
+![Main View](https://github.com/atphy/pet-adoption/blob/master/screenshots/catsablanca.gif)
 
 ## View Project
 To view the project, clone it down from Github and run in a terminal!
